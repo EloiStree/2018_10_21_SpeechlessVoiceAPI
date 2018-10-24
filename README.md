@@ -1,4 +1,8 @@
 # SpeechlessVoiceAPI
+# Information
+Go to [Wiki](https://github.com/SpeechlessVoice/SpeechlessVoiceAPI/wiki)
+
+## Redirection
 API allowing speechless people to trigger sound to interact with the world by the use of your fingers.
 
 - https://speechlessvoice.page.link/code
