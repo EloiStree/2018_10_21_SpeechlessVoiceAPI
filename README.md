@@ -5,4 +5,7 @@ API allowing speechless people to trigger sound to interact with the world by th
 - https://speechlessvoice.page.link/wiki
 - https://speechlessvoice.page.link/download
 - https://speechlessvoice.page.link/information
+- https://speechlessvoice.page.link/BuyTap
+- https://speechlessvoice.page.link/issue
+- https://speechlessvoice.page.link/suggestion
 - https://discord.gg/Hde744g
